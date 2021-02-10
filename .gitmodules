@@ -27,7 +27,7 @@
 	url = https://github.com/HomeOfVapourSynthEvolution/VapourSynth-EEDI3.git
 [submodule "fmtconv"]
 	path = fmtconv
-	url = https://github.com/EleonoreMizo/fmtconv.git
+	url = https://github.com/inflation/fmtconv.git
 [submodule "KNLMeansCL"]
 	path = KNLMeansCL
 	url = https://github.com/Khanattila/KNLMeansCL.git
